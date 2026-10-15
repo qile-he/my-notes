@@ -2,19 +2,15 @@
 title: 我的知识库
 ---
 
-# 欢迎来到我的知识库！
+# Welcome!
 
-这里记录我的课程学习与 AI 科研探索。
+## Course Notes
 
-## 课程笔记
-
-- Introduction to Computer Systems
-- Data Structures
-- Natural Language Processing
-- Discrete Mathematics
+- [[Generative Model Index]]
+- [[ICS Index]]
+- [[NLP Index]]
+- [[DSA Index]]
+- [[AI Practice Index]]
 
 ## AI Research
 
-- LLM
-- Multi-Agent Systems
-- Agent Research
