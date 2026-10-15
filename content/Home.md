@@ -1,0 +1,5 @@
+[[Generative Model Index]]
+[[ICS Index]]
+[[NLP Index]]
+[[DSA Index]]
+[[AI Practice Index]]
